@@ -1,0 +1,12 @@
+[submodule "Todo-checklistapp123"]
+	path = Todo-checklistapp123
+	url = https://github.com/Ridha-Fathima/Todo-checklistapp123
+[submodule "Calculator-Project"]
+	path = Calculator-Project
+	url = https://github.com/Ridha-Fathima/Calculator-Project.git
+[submodule "Simple-Quiz-App"]
+	path = Simple-Quiz-App
+	url = https://github.com/Ridha-Fathima/Simple-Quiz-App.git
+[submodule "Simple-Drawing-App"]
+	path = Simple-Drawing-App
+	url = https://github.com/Ridha-Fathima/Simple-Drawing-App.git
